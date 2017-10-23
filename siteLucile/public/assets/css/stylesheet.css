@@ -1,0 +1,174 @@
+.content {
+	height: 100%;
+    width: auto;
+    background-color: #d9cba3;
+
+
+}
+
+.navigation {
+	
+  	display: inline-flex;
+  	border: none;
+    
+}
+
+
+
+.logo {
+	height: 150px;
+
+}
+
+.header {
+	
+	width: auto;
+	
+
+
+}
+
+.menu {
+	color: #eb1c42;
+}
+.news {
+	background-color: #f2f2b1;
+	height: 250px;
+	width: auto;
+	background-image: url("http://www.powerpointhintergrund.com/uploads/red-background-book-12.jpeg");
+	
+
+	
+}
+
+.thug {
+	height: 180px;
+    width: 130px;
+    display: flex;
+    justify-content: center;
+
+}
+
+h4 {
+
+	color: #735939;
+}
+
+.maincontent { 
+	border-top:1px 
+	dashed #999; 
+	height: 1500px;
+	width: auto;
+	
+
+
+}
+
+.news {
+	padding: 15px;
+}
+
+.image {
+	height: 100px;
+	width: 100px;
+
+}
+
+.ligne1 {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+
+
+.produit {
+	display: inline-block;
+	padding: 15px;
+	text-align: center;
+	border: 3px solid black;
+	margin: 10px;
+	width: 200px;
+	height: 400px;
+
+
+}
+
+.imgproduit {
+	
+	width: 75%;
+	
+
+}
+
+.actualites {
+	display: inline-block;
+	width: 800px;
+	text-align: center;
+	padding: 20px;
+	display: flex;
+	
+	
+}
+
+.actualites td {
+	border: 1px solid grey;
+	padding: 15px;
+	
+}
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+
+.footer {
+	
+	background-color: #f2f2b1;
+	height: 250px;
+	width: auto;
+	text-align: center;
+	
+
+
+}
+
+
+/*
+
+<div class="col_half col_last">
+<div class="feature-box fbox-center fbox-bg fbox-plain">
+<div class="fbox-icon">
+<a href="https://facebook.com/appernetic" target="_blank"><i class="icon-facebook2"></i></a>
+</div>
+<h3>Connect with us on<span class="subtitle">Facebook</span></h3>
+</div>
+</div>
+
+.col_last {
+    margin-right: 0!important;
+    clear: right;
+}
+compressed.css:3
+.col_five_sixth, .col_four_fifth, .col_full, .col_half, .col_one_fifth, .col_one_fourth, .col_one_sixth, .col_one_third, .col_three_fifth, .col_three_fourth, .col_two_fifth, .col_two_third, .postcontent, .sidebar {
+    display: block;
+    position: relative;
+    margin-right: 4%;
+    margin-bottom: 50px;
+    float: left;
+}
+compressed.css:3
+.col_half {
+    width: 48%;
+}
+compressed.css:1
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+*/
